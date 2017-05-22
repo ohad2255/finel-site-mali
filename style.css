@@ -1,0 +1,257 @@
+/* CSS Document */
+body {
+	background-image: url(images/bg.jpg);
+	background-size: cover;
+	direction: rtl;
+}
+#black {
+	width: 890px;
+	z-index: 1;
+	margin: 0 auto;
+	background-color: hsla(0,0%,0%,0.55);
+	height: 1170px;
+	}
+a {
+	text-decoration: none;
+}
+#logo {
+	padding-left: 10px;
+	width: 200px;
+	height: 90px;
+	float: left;
+}
+#icons {
+	width: 200px;
+	height: 50px;
+	margin-top: 10px;
+}
+#search {
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	margin-top: 12px;
+}
+#top {
+	width: 890px;
+	height: 89px;
+}
+#topnav {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	width: 526px;
+	text-align: center;
+	padding-top: 13px;
+}
+.nav {
+	color: hsla(200,93%,72%,0.79);
+	font-size: 16px;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#semel {
+	width: 200px;
+	height: 120px;
+	float: left;
+	margin-left: 468px;
+}
+#Sentence {
+	width: 890px;
+	height: 40px;
+	background-color: hsla(224,52%,27%,0.47);
+	margin-top: 30px;
+	color: hsla(0,0%,100%,1.00);
+	font-size: 26px;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	padding-top: 12px;
+	font-style: italic;
+}
+#line {
+	width: 890px;
+	height: 45px;
+	background-color: hsla(224,52%,27%,0.47);
+	margin-top: 10px;
+	clear: both;
+}
+#slaide {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	width: 890px;
+	height: 225px;
+	text-align: center;
+	margin-top: 26px;
+	padding-top: 0px;
+}
+#Photos {
+	margin-top: 19px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	width: 892px;
+	height: 200pt;
+	text-align: center;
+}
+#Text {
+	width: 890px;
+	height: 270px;
+	color: hsla(0,0%,100%,1.00);
+}
+#black #line {
+}
+#futter {
+	width: 890px;
+	text-align: center;
+}
+#futterborder {
+	width: 600px;
+	height: 50px;
+	border-top: 1px solid hsla(192,92%,65%,0.60);
+	margin: 0 auto;
+	border-bottom: 1px solid hsla(192,91%,65%,0.60);
+}
+#centerfut {
+	width: 581px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-bottom: 0;
+	text-align: center;
+	padding-top: 6px;
+	direction: ltr;
+	padding-right: 0px;
+	height: 50px;
+	margin-right: auto;
+	line-height: 24px;
+}
+#down-futter {
+	width: 890px;
+	height: 50px;
+	color: hsla(0,0%,100%,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 23px;
+}
+.fut {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: hsla(0,0%,40%,1.00);
+	width: 200px;
+	height: 30px;
+}
+.boxtext {
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin-left: 14px;
+	color: hsla(0,0%,100%,1.00);
+	text-align: right;
+	font-size: 14px;
+	line-height: 27px;
+	margin-top: 13px;
+}
+.nav:hover {
+	color: hsla(0,0%,99%,1.00);
+}
+.textlist {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 100;
+}
+.textlist:hover {
+	color: hsla(209,50%,70%,1.00);
+	font-size: 16px;
+}
+
+#boximage {
+	width: 890px;
+	height: 500px;
+	margin-top: 30px;
+}
+.picbox {
+	width: 190px;
+	height: 500px;
+	float: left;
+}
+#p0 {
+
+
+
+
+}
+#p1 {
+	margin-left: 42px;
+	margin-right: 22px;
+
+}
+#p3 {
+	margin-left: 22px;
+	margin-right: 42px;
+
+}
+#p4 {
+}
+#centerfut a:hover {
+	color: hsla(0,0%,100%,1.00);
+}
+#centerfut img {
+	line-height: 80px;
+}
+#d {
+}
+#Details {
+	width: 781px;
+	height: 548px;
+	color: hsla(0,0%,100%,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: right;
+	font-size: 14px;
+	margin-top: 29px;
+	line-height: 22px;
+	clear: both;
+	padding-right: 32px;
+}
+#hair {
+	width: 890px;
+	height: 445px;
+	margin-top: 31px;
+	text-align: center;
+}
+.k {
+	height: 200px;
+	min-width: 200px;
+}
+#mani {
+	width: 980px;
+	height: 400px;
+	text-align: center;
+}
+#makeuppic {
+	margin: auto,0;
+	padding-right: 145px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+#black-2 {
+	width: 890px;
+	z-index: 1;
+	margin: 0 auto;
+	background-color: hsla(0,0%,0%,0.55);
+	height: 990px;
+	}#black #productspic {
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-top: 29px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 187px;
+	padding-right: 237px;
+}
+
+#game {
+	padding-right: 7px; 
+}
